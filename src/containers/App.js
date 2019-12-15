@@ -4,6 +4,7 @@ import {
   Route
 } from 'react-router-dom';
 import NavBar from '../components/NavBar';
+import MoviesList from '../components/MoviesList';
 import MoviesPage from './MoviesPage';
 
 class App extends Component {
